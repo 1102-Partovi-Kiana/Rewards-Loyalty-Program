@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfood.a CMakeFiles/food.dir/food.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfood.a
