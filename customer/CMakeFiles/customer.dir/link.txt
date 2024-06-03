@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libcustomer.a CMakeFiles/customer.dir/customer.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libcustomer.a
