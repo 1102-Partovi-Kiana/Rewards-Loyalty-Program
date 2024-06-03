@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdynamicArray.a CMakeFiles/dynamicArray.dir/dynamicArray.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdynamicArray.a
