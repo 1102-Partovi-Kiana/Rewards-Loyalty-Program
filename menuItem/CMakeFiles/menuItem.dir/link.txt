@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmenuItem.a CMakeFiles/menuItem.dir/menuItem.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmenuItem.a
